@@ -1,0 +1,3 @@
+LIBRARY libAgoraVideoSource
+EXPORTS
+    createAgoraVideoSourceEngine @1
